@@ -36,10 +36,12 @@
 
     aside {
       flex: 1;
+     padding-top: 150px;
     }
 
     main {
       flex: 2;
+     padding-top: 150px;
     }
 
     header, nav, footer {
